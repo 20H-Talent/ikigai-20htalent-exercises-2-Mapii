@@ -9,3 +9,9 @@ span {
 .main-content {
   font-weight: bold;
 }
+
+#Finally, target the paragraph that is a descendant of the footer element. Add a color property and set the value to slategrey.
+
+.footer {
+  color: slategrey;
+}

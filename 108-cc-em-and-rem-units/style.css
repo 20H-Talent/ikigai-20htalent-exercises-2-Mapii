@@ -1,0 +1,22 @@
+header {
+  font-size: 1em;
+}
+
+.title {
+  font-size: 1.625em;
+}
+
+h1 {
+  font-size: 0.8em;
+}
+
+h2 {
+  font-size: 0.302px;
+}
+
+
+#The em-based font-size values for .title and h1 are relative to their parent header's font-size value. This causes a compounding issue that makes their font size values larger than the desired values.
+
+Replace the em units of .title and h1 with a unit that is relative to the root element of the page.
+
+#Create a new rule that targets the h2. The h2's parent element has a font-size value of 16px. Use an em unit to give the h2 a font-size value equivalent to 53px. 

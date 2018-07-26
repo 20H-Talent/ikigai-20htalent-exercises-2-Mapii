@@ -1,0 +1,5 @@
+#Finally, create a new type selector that targets the div element. Add a background-color property and set the value to lightblue.
+
+div {
+  background-color: lightblue;
+}

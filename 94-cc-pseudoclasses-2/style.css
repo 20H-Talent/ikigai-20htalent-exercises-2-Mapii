@@ -9,3 +9,9 @@ a:focus {
 a:visited {
   color: steelblue;
 }
+
+#Finally, add a new pseudo-class selector that targets all links on hover. Add a color property and set the value to tomato.
+
+a:hover {
+  color: tomato;
+}

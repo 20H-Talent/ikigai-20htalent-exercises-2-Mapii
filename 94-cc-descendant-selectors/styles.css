@@ -3,3 +3,9 @@
 span {
   font-size: 26px;
 }
+
+#Next, target the paragraph that is a descendant of the main-content class. Add a font-weight property and set the value to bold.
+
+.main-content {
+  font-weight: bold;
+}

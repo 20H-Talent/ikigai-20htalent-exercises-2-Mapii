@@ -3,3 +3,9 @@
 a:focus {
   color: orange;
 }
+
+#Next, create a pseudo-class selector that targets all visited links. Add a color property and set the value to steelblue.
+
+a:visited {
+  color: steelblue;
+}

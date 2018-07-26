@@ -9,3 +9,9 @@
 .main-heading {
   font-size: 72px;
 }
+
+#Finally, target main-content with an ID selector. Add a background-color property and set the value to lightsteelblue.
+
+#main-content {
+  background-color: lightseelblue;
+}

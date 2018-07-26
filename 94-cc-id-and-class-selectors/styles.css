@@ -3,3 +3,9 @@
 .main-header {
   background-color: orange;
 }
+
+#Next, target the class main-heading. Give the heading a font-size property and set the value to 72px.
+
+.main-heading {
+  font-size: 72px;
+}
